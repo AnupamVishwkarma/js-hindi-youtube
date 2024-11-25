@@ -18,3 +18,15 @@ console.log(id === anotherId);
 // Reference (Non primitive)
 
 // Array, Objects, Functions
+
+const heros = ["shaktiman","naagraj","doga"];
+let myobj={
+    name: "Anupam",
+    age: 22,
+}
+
+const myFunction = function(){
+    console.log("Hello World");
+}
+
+console.log(typeof anotherId);
